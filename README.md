@@ -1,16 +1,18 @@
-### Hi there 👋
-
-<!--
-**akkadaska/akkadaska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# My profile
+## Belongs
+日本人です🇯🇵 I am Japanese.  
+I'm a graduate student at university of Tokyo.
+## I am good at:
+- HTML(Native, Pug, PWA)
+- CSS(Native, Bootstrap, Material Design Lite)
+- Javascript(Native, jQuery, Node.js)
+- Python
+- Lua(Aviutl script)
+- Firebase(Functions, Hosting)
+## What I have done so far:
+- Build a shop website responsive for PC and smartphone with Python CGI
+- Build a progressive web app on Firebase (Hosting, Functions, Realtime Database, Strage, Cloud Messaging) with Node.js and express
+- Build data processing scripts with Python for shop inventory control , molecule coordinate and so on
+- Code and design an Audio spectrum on Aviutl script by Lua
+## I am learning:
+- Typescript, Electron...
