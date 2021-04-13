@@ -5,7 +5,7 @@ Just a beginner of engineer, dreaming to be a great front end engineer.
 I'm a graduate student at university of Tokyo.
 ## I am good at:
 ### Ftont-end
-- HTML(Native, Pug, PWA)
+- HTML
   - Native
   - PWA
   - Electron
@@ -24,7 +24,7 @@ I'm a graduate student at university of Tokyo.
 - Firebase
   - Authentication
   - Realtime Database
-  - Strage
+  - Storage
   - Hosting
   - Functions
   - Cloud Messaging
