@@ -16,4 +16,4 @@ A developper in Japan. 🇯🇵 Coding and creating is my job and hobby. ❤ 日
 - I have great knowledges about React hooks, fetching data, audio spectrum, live streaming service, CI/CD and unit testing.
 
 ## Links
-[Twitter](https://github.com/akkadaska) / [Linked in](https://www.linkedin.com/in/daisuke-akazawa-59a243236/)
+[Twitter](https://twitter.com/akkadaska) / [Linked in](https://www.linkedin.com/in/daisuke-akazawa-59a243236/)
